@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bancodbModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="8.0" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tcliente">
+    <Key>
+      <PropertyRef Name="IDCLIENTE" />
+    </Key>
+    <Property Name="IDCLIENTE" Type="int" Nullable="false" />
+    <Property Name="NOMCLIENTE" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="NUM_CONTA_CLIENTE" Type="varchar" MaxLength="45" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tconta">
+    <Key>
+      <PropertyRef Name="IDCONTA" />
+    </Key>
+    <Property Name="IDCONTA" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDCLIENTE" Type="int" Nullable="false" />
+    <Property Name="DES_NUMERO" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="DES_TIPO" Type="varchar" MaxLength="45" Nullable="false" />
+    <Property Name="VAL_SALDO" Type="double" Nullable="false" />
+  </EntityType>
+  <EntityType Name="textrato">
+    <Key>
+      <PropertyRef Name="IDTEXTRATO" />
+    </Key>
+    <Property Name="IDTEXTRATO" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TIPO_OPERACAO" Type="varchar" MaxLength="45" />
+    <Property Name="VALOR" Type="double" Nullable="false" />
+    <Property Name="DAT_ACAO" Type="datetime" Precision="0" Nullable="false" />
+    <Property Name="IDCONTA_CLIENTE" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="IDCLIENTE">
+    <End Role="tcliente" Type="Self.tcliente" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tconta" Type="Self.tconta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tcliente">
+        <PropertyRef Name="IDCLIENTE" />
+      </Principal>
+      <Dependent Role="tconta">
+        <PropertyRef Name="IDCLIENTE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="IDCONTA_CLIENTE">
+    <End Role="tconta" Type="Self.tconta" Multiplicity="1" />
+    <End Role="textrato" Type="Self.textrato" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tconta">
+        <PropertyRef Name="IDCONTA" />
+      </Principal>
+      <Dependent Role="textrato">
+        <PropertyRef Name="IDCONTA_CLIENTE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="bancodbModelStoreContainer">
+    <EntitySet Name="tcliente" EntityType="Self.tcliente" Schema="bancodb" store:Type="Tables" />
+    <EntitySet Name="tconta" EntityType="Self.tconta" Schema="bancodb" store:Type="Tables" />
+    <EntitySet Name="textrato" EntityType="Self.textrato" Schema="bancodb" store:Type="Tables" />
+    <AssociationSet Name="IDCLIENTE" Association="Self.IDCLIENTE">
+      <End Role="tcliente" EntitySet="tcliente" />
+      <End Role="tconta" EntitySet="tconta" />
+    </AssociationSet>
+    <AssociationSet Name="IDCONTA_CLIENTE" Association="Self.IDCONTA_CLIENTE">
+      <End Role="tconta" EntitySet="tconta" />
+      <End Role="textrato" EntitySet="textrato" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

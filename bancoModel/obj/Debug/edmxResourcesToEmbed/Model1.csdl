@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="bancodbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tcliente">
+    <Key>
+      <PropertyRef Name="IDCLIENTE" />
+    </Key>
+    <Property Name="IDCLIENTE" Type="Int32" Nullable="false" />
+    <Property Name="NOMCLIENTE" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NUM_CONTA_CLIENTE" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="tconta" Relationship="Self.IDCLIENTE" FromRole="tcliente" ToRole="tconta" />
+  </EntityType>
+  <EntityType Name="tconta">
+    <Key>
+      <PropertyRef Name="IDCONTA" />
+    </Key>
+    <Property Name="IDCONTA" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDCLIENTE" Type="Int32" Nullable="false" />
+    <Property Name="DES_NUMERO" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DES_TIPO" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="VAL_SALDO" Type="Double" Nullable="false" />
+    <NavigationProperty Name="tcliente" Relationship="Self.IDCLIENTE" FromRole="tconta" ToRole="tcliente" />
+    <NavigationProperty Name="textrato" Relationship="Self.IDCONTA_CLIENTE" FromRole="tconta" ToRole="textrato" />
+  </EntityType>
+  <EntityType Name="textrato">
+    <Key>
+      <PropertyRef Name="IDTEXTRATO" />
+    </Key>
+    <Property Name="IDTEXTRATO" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TIPO_OPERACAO" Type="String" MaxLength="45" FixedLength="false" Unicode="false" />
+    <Property Name="VALOR" Type="Double" Nullable="false" />
+    <Property Name="DAT_ACAO" Type="DateTime" Nullable="false" />
+    <Property Name="IDCONTA_CLIENTE" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="tconta" Relationship="Self.IDCONTA_CLIENTE" FromRole="textrato" ToRole="tconta" />
+  </EntityType>
+  <Association Name="IDCLIENTE">
+    <End Role="tcliente" Type="Self.tcliente" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="tconta" Type="Self.tconta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tcliente">
+        <PropertyRef Name="IDCLIENTE" />
+      </Principal>
+      <Dependent Role="tconta">
+        <PropertyRef Name="IDCLIENTE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="IDCONTA_CLIENTE">
+    <End Role="tconta" Type="Self.tconta" Multiplicity="1" />
+    <End Role="textrato" Type="Self.textrato" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tconta">
+        <PropertyRef Name="IDCONTA" />
+      </Principal>
+      <Dependent Role="textrato">
+        <PropertyRef Name="IDCONTA_CLIENTE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="bancodbEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tcliente" EntityType="Self.tcliente" />
+    <EntitySet Name="tconta" EntityType="Self.tconta" />
+    <EntitySet Name="textrato" EntityType="Self.textrato" />
+    <AssociationSet Name="IDCLIENTE" Association="Self.IDCLIENTE">
+      <End Role="tcliente" EntitySet="tcliente" />
+      <End Role="tconta" EntitySet="tconta" />
+    </AssociationSet>
+    <AssociationSet Name="IDCONTA_CLIENTE" Association="Self.IDCONTA_CLIENTE">
+      <End Role="tconta" EntitySet="tconta" />
+      <End Role="textrato" EntitySet="textrato" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

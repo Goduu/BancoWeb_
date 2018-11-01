@@ -1,0 +1,183 @@
+c:/users/adrielle e anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+c:/users/adrielle e anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.CodeAnalysis.dll
+c:/users/adrielle e anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+c:/users/adrielle e anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+c:/users/adrielle e anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.IO.Compression.dll
+c:/users/adrielle e anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/VBCSCompiler.exe
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/ApplicationInsights.config
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/BancoWeb.dll.config
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/BancoWeb.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/BancoWeb.pdb
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/csc.exe
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/csc.exe.config
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/csc.rsp
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/csi.exe
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/csi.exe.config
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/csi.rsp
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/Microsoft.Win32.Primitives.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.AppContext.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Console.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Diagnostics.Process.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.IO.Pipes.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Security.AccessControl.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Security.Claims.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Security.Cryptography.Encoding.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Security.Cryptography.Primitives.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Security.Principal.Windows.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Text.Encoding.CodePages.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Threading.Thread.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.ValueTuple.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Xml.ReaderWriter.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Xml.XmlDocument.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Xml.XPath.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/System.Xml.XPath.XDocument.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/vbc.exe
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/vbc.exe.config
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/vbc.rsp
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Antlr3.Runtime.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/BancoService.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AI.Agent.Intercept.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AI.DependencyCollector.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AI.PerfCounterCollector.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AI.ServerTelemetryChannel.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AI.Web.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AI.WindowsServer.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.ApplicationInsights.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.Web.Infrastructure.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySql.Data.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySql.Data.EntityFramework.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySql.Web.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Newtonsoft.Json.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.Helpers.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.Mvc.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.Optimization.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.Razor.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.WebPages.Deployment.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.WebPages.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.WebPages.Razor.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/WebGrease.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/EntityFramework.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Google.Protobuf.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/BancoService.pdb
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/BancoService.dll.config
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySql.Data.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySql.Data.EntityFramework.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySql.Web.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.Helpers.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.Mvc.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.Optimization.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.Razor.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.WebPages.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.WebPages.Deployment.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Web.WebPages.Razor.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Newtonsoft.Json.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Antlr3.Runtime.pdb
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/System.Diagnostics.DiagnosticSource.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AI.DependencyCollector.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AI.WindowsServer.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.AI.Web.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/EntityFramework.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/pt-br/System.Web.Helpers.resources.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/pt-br/System.Web.Mvc.resources.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/pt-br/System.Web.Optimization.resources.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/pt-br/System.Web.Razor.resources.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/pt-br/System.Web.WebPages.resources.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/pt-br/System.Web.WebPages.Deployment.resources.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/pt-br/System.Web.WebPages.Razor.resources.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/obj/Debug/BancoWeb.csprojAssemblyReference.cache
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/obj/Debug/BancoWeb.csproj.CoreCompileInputs.cache
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/obj/Debug/BancoWeb.csproj.CopyComplete
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/obj/Debug/BancoWeb.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/obj/Debug/BancoWeb.pdb
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySQL.Data.EntityFrameworkCore.Design.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySQL.Data.EntityFrameworkCore.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySQL.Data.EntityFrameworkCore.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/MySQL.Data.EntityFrameworkCore.Design.xml
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/bancoModel.dll
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/bancoModel.pdb
+C:/Users/Adrielle e Anderson/source/repos/BancoWeb/BancoWeb/bin/bancoModel.dll.config
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/ApplicationInsights.config
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/BancoWeb.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/BancoWeb.pdb
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Antlr3.Runtime.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/bancoModel.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/BancoService.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AI.Agent.Intercept.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AI.DependencyCollector.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AI.PerfCounterCollector.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AI.ServerTelemetryChannel.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AI.Web.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AI.WindowsServer.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.ApplicationInsights.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AspNet.TelemetryCorrelation.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.Web.Infrastructure.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Newtonsoft.Json.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Diagnostics.DiagnosticSource.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.Helpers.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.Mvc.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.Optimization.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.Razor.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.WebPages.Deployment.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.WebPages.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.WebPages.Razor.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/WebGrease.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/EntityFramework.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Google.Protobuf.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/bancoModel.pdb
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/bancoModel.dll.config
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/BancoService.pdb
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/BancoService.dll.config
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/MySql.Data.EntityFramework.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/MySQL.Data.EntityFrameworkCore.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/MySQL.Data.EntityFrameworkCore.Design.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/MySql.Web.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.Helpers.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.Mvc.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.Optimization.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.Razor.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.WebPages.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.WebPages.Deployment.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Web.WebPages.Razor.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Newtonsoft.Json.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Antlr3.Runtime.pdb
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/System.Diagnostics.DiagnosticSource.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AspNet.TelemetryCorrelation.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AI.DependencyCollector.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AI.WindowsServer.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.AI.Web.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/EntityFramework.xml
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/pt-br/System.Web.Helpers.resources.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/pt-br/System.Web.Mvc.resources.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/pt-br/System.Web.Optimization.resources.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/pt-br/System.Web.Razor.resources.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/pt-br/System.Web.WebPages.resources.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/pt-br/System.Web.WebPages.Deployment.resources.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/bin/pt-br/System.Web.WebPages.Razor.resources.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/obj/Debug/BancoWeb.csprojAssemblyReference.cache
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/obj/Debug/BancoWeb.csproj.CoreCompileInputs.cache
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/obj/Debug/BancoWeb.csproj.CopyComplete
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/obj/Debug/BancoWeb.dll
+/Users/Goduu1/Downloads/BancoWeb_/BancoWeb/obj/Debug/BancoWeb.pdb

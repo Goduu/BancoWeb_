@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoWeb", "BancoWeb\BancoWeb.csproj", "{7F8CFAC9-1170-485B-906C-1F9FCB9C35F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancoService", "BancoService\BancoService.csproj", "{9F6A10FD-F2DC-4F55-B5EC-DCA74191D4DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bancoModel", "bancoModel\bancoModel.csproj", "{61D5D53F-207E-4BE0-9273-2324C1D40908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F8CFAC9-1170-485B-906C-1F9FCB9C35F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8CFAC9-1170-485B-906C-1F9FCB9C35F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8CFAC9-1170-485B-906C-1F9FCB9C35F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8CFAC9-1170-485B-906C-1F9FCB9C35F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6A10FD-F2DC-4F55-B5EC-DCA74191D4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6A10FD-F2DC-4F55-B5EC-DCA74191D4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6A10FD-F2DC-4F55-B5EC-DCA74191D4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6A10FD-F2DC-4F55-B5EC-DCA74191D4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D5D53F-207E-4BE0-9273-2324C1D40908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D5D53F-207E-4BE0-9273-2324C1D40908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D5D53F-207E-4BE0-9273-2324C1D40908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D5D53F-207E-4BE0-9273-2324C1D40908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0DDAF5C-C325-4BFD-9DA4-29DB16D5D23C}
+	EndGlobalSection
+EndGlobal

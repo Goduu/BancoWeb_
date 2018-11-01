@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="bancodbModelStoreContainer" CdmEntityContainer="bancodbEntities">
+    <EntitySetMapping Name="tcliente">
+      <EntityTypeMapping TypeName="bancodbModel.tcliente">
+        <MappingFragment StoreEntitySet="tcliente">
+          <ScalarProperty Name="IDCLIENTE" ColumnName="IDCLIENTE" />
+          <ScalarProperty Name="NOMCLIENTE" ColumnName="NOMCLIENTE" />
+          <ScalarProperty Name="NUM_CONTA_CLIENTE" ColumnName="NUM_CONTA_CLIENTE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tconta">
+      <EntityTypeMapping TypeName="bancodbModel.tconta">
+        <MappingFragment StoreEntitySet="tconta">
+          <ScalarProperty Name="IDCONTA" ColumnName="IDCONTA" />
+          <ScalarProperty Name="IDCLIENTE" ColumnName="IDCLIENTE" />
+          <ScalarProperty Name="DES_NUMERO" ColumnName="DES_NUMERO" />
+          <ScalarProperty Name="DES_TIPO" ColumnName="DES_TIPO" />
+          <ScalarProperty Name="VAL_SALDO" ColumnName="VAL_SALDO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="textrato">
+      <EntityTypeMapping TypeName="bancodbModel.textrato">
+        <MappingFragment StoreEntitySet="textrato">
+          <ScalarProperty Name="IDTEXTRATO" ColumnName="IDTEXTRATO" />
+          <ScalarProperty Name="TIPO_OPERACAO" ColumnName="TIPO_OPERACAO" />
+          <ScalarProperty Name="VALOR" ColumnName="VALOR" />
+          <ScalarProperty Name="DAT_ACAO" ColumnName="DAT_ACAO" />
+          <ScalarProperty Name="IDCONTA_CLIENTE" ColumnName="IDCONTA_CLIENTE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
